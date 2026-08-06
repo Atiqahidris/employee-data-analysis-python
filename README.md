@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 
 This project demonstrates the use of Python for Exploratory Data Analysis (EDA) on an employee dataset. The analysis focuses on understanding employee demographics, monthly income, and years of service through statistical analysis and data visualization.
+<img width="1239" height="664" alt="image" src="https://github.com/user-attachments/assets/22b4d494-a3a1-4bdd-ba49-a430cbd7f8d9" />
 
 ## 🎯 Objectives
 
@@ -38,8 +39,17 @@ This project demonstrates the use of Python for Exploratory Data Analysis (EDA) 
 
 ## 📊 Key Visualizations
 
-* Histogram of Monthly Income
-* Scatter Plot of Years at Company vs Monthly Income
+### Histogram of Monthly Income
+
+![Histogram](histogram-monthly-income.png)
+
+### Scatter Plot: Years at Company vs Monthly Income
+
+![Scatter Plot](scatter-years-vs-income.png)
+
+### Scatter Plot with Trendline
+
+![Scatter Plot with Trendline](scatter-trendline-years-vs-income.png)
 
 ## 🔍 Key Findings
 
