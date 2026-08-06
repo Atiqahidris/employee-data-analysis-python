@@ -1,9 +1,3 @@
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-
-![EDA](https://img.shields.io/badge/EDA-Project-orange)
-
 # Employee Data Analysis using Python
 
 ## 📌 Project Overview
@@ -48,15 +42,17 @@ This project demonstrates the use of Python for Exploratory Data Analysis (EDA) 
 
 ### Histogram of Monthly Income
 
-![Histogram](histogram-monthly-income.png)
+<img width="1145" height="691" alt="histogram-monthly-income png" src="https://github.com/user-attachments/assets/58a0801f-c084-4709-bf61-8875037982c5" />
 
 ### Scatter Plot: Years at Company vs Monthly Income
 
-![Scatter Plot](scatter-years-vs-income.png)
+<img width="983" height="688" alt="scatter-years-vs-income png" src="https://github.com/user-attachments/assets/d56dbea9-6120-4bba-a22f-a43b6fcc3e74" />
+
 
 ### Scatter Plot with Trendline
 
-![Trendline](scatter-trendline-years-vs-income.png)
+<img width="1009" height="679" alt="scatter-trendline-years-vs-income png" src="https://github.com/user-attachments/assets/b2985e0a-83ea-422d-8502-e930b3dfcc54" />
+
 
 ## 📌 Key Results
 
