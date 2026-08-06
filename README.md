@@ -53,14 +53,6 @@ This project demonstrates the use of Python for Exploratory Data Analysis (EDA) 
 
 <img width="1009" height="679" alt="scatter-trendline-years-vs-income png" src="https://github.com/user-attachments/assets/b2985e0a-83ea-422d-8502-e930b3dfcc54" />
 
-
-## 📌 Key Results
-
-- Calculated descriptive statistics for employee data.
-- Identified the distribution of monthly income.
-- Examined the relationship between years at company and monthly income.
-- Created visualizations to support business insights.
-
 ## 🔍 Key Findings
 
 * Identified the distribution of employee monthly income.
